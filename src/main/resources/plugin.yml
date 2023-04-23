@@ -1,0 +1,7 @@
+name: arenaBrawl
+version: '${project.version}'
+main: me.logan.arenabrawl.ArenaBrawl
+api-version: 1.19
+commands:
+  spawnChallanger:
+    description: 'spawn a challenger'

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/../../servers/1.19.4/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="arenaBrawl.jar">
+        <element id="module-output" name="arenaBrawl" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
